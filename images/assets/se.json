@@ -1,0 +1,45 @@
+[
+    {   
+        "image":"images/ps/got.jpg",
+        "name":"Game of Thrones",
+        "about":"Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+        "imdb":"9.3",
+        "creator":"David Benioff, D.B. Weiss"
+    },
+    {
+        "image":"images/ps/stt.jpg",
+        "name":"Stranger Things ",
+        "about":"When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+        "imdb":"8.8",
+        "creator":"Matt Duffer, Ross Duffer"
+    },
+    {
+        "image":"images/ps/pb.jpg",
+        "name":"Peaky Blinders ",
+        "about":"A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+        "imdb":"8.8",
+        "creator":"Steven Knight"
+    },
+    {
+        "image":"images/ps/bm.jpg",
+        "name":"Black Mirror ",
+        "about":"An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+        "imdb":"8.8",
+        "creator":"Charlie Brooker"
+    },
+    {
+        "image":"images/ps/d.jpg",
+        "name":"Dark",
+        "about":"A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+        "imdb":"8.7",
+        "creator":"Baran bo Odar, Jantje Friese"
+    },
+    {
+        "image":"images/ps/b.jpg",
+        "name":"The Boys ",
+        "about":"A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+        "imdb":"8.7",
+        "creator":"Eric Kripke, Evan Goldberg, Seth Rogen"
+    }
+
+]

@@ -1,0 +1,59 @@
+[
+        {   
+            "image":"images/IT.jpg",
+            "name":"IT",
+            "about":"In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+            "imdb":"7.3",
+            "director":"Andy Muschietti"
+        },
+        {
+            "image":"images/Joker.jpg",
+            "name":"Joker",
+            "about":"In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+            "imdb":"8.6",
+            "director":"Todd Phillips"
+        },
+        {
+            "image":"images/AvengerE.jpg",
+            "name":"Avenger End game",
+            "about":"After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "imdb":"8.5",
+            "director":"Anthony Russo, Joe Russo"
+        },
+        {
+            "image":"images/JW.jpg",
+            "name":"John Wick: Chaper 3",
+            "about":"John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+            "imdb":"7.5",
+            "director":"Chad Stahelski"
+        },
+        {
+            "image":"images/GodE.jpg",
+            "name":"Gods of EGYPT",
+            "about":"Mortal hero Bek teams with the god Horus in an alliance against Set, the merciless god of darkness, who has usurped Egypt's throne, plunging the once peaceful and prosperous empire into chaos and conflict.",
+            "imdb":"5.4",
+            "director":"Alex Proyas"
+        },
+        {
+            "image":"images/WC.jpg",
+            "name":"Warcraft",
+            "about":" As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+            "imdb":"6.8",
+            "director":"Duncan Jones"
+        },
+        {
+            "image":"images/Wra.jpg",
+            "name":"Wrath of the Titans",
+            "about":" Perseus braves the treacherous underworld to rescue his father, Zeus, captured by his son, Ares, and brother Hades who unleash the ancient Titans upon the world.",
+            "imdb":"5.7",
+            "director":"Jonathan Liebesman"
+        },
+        {
+            "image":"images/Her.jpg",
+            "name":"Hercules",
+            "about":" Having endured his legendary twelve labors, Hercules, the Greek demigod, has his life as a sword-for-hire tested when the King of Thrace and his daughter seek his aid in defeating a tyrannical warlord.",
+            "imdb":"6",
+            "director":"Brett Ratner"
+        }
+
+    ]
